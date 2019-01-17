@@ -1,2 +1,4 @@
 ipyleaflet
 xarray
+netcdf4
+scipy
